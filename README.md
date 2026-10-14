@@ -1,0 +1,2 @@
+# greeting-cicd
+activities
